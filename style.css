@@ -1,0 +1,76 @@
+* {
+  margin: 20px;
+  padding: 5px;
+}
+
+body {
+  
+  text-align: center;
+  color: rgb(31, 30, 30);
+  background-size: cover ;
+  font-family: fantasy;
+    background-image: url("https://cdn.discordapp.com/attachments/1513345517654904943/1525159533457047613/image.png?ex=6a525f00&is=6a510d80&hm=f7e8e945eb6ee743056a1f138e671bed42bab6911ac6f0b959736972ef1958d5&");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  
+}
+
+.but {
+  padding: 15px 15px;
+  margin: 10px;
+  border-bottom-color: aqua;
+  margin-bottom: 9px;
+  border: 2px solid rgb(43, 43, 43);
+  border-radius: 13px 13px;
+  
+}
+
+.About {
+  padding: 10px 9px;
+  margin: 64px 50px;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 13px 13px;
+}
+
+.Beginner{
+  padding: 10px 9px;
+  margin: 20px 21px;
+  border: 2px solid #000000;
+  border-radius: 13px 13px;
+}
+
+.Goals{
+  padding: 20px 7px;
+  margin: 10px 19px;
+  border: 2px solid #0e0e0e;
+  border-radius: 13px 13px;
+}
+
+.red{
+ padding: 1px 7px;
+  margin: 10px 1px;
+  border: 2px solid #050505;
+  border-radius: 13px 13px;
+
+}
+
+.plex{
+  padding: 1px 1px;
+  margin: 2px 2px;
+  border: 2px solid #000000;
+  border-radius: 13px 13px
+}
+
+.bt{
+  padding:2px 2px;
+  margin: 30px 30px;
+  display: flex ;
+  justify-content: center;
+  
+}
+
+
+
+
